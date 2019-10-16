@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ceifaiwaiy.amsross.github.io/sitemap.xml
